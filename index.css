@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(49, 146, 109);
+}
+
+.fo {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.text {
+  width: 200px;
+  height: 30px;
+  text-align: center;
+}
+
+.but {
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  font-weight: bold;
+  filter: drop-shadow(0 0 20px rgb(236, 222, 24));
+}
+
+.lab {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bolder;
+}
+
+.head {
+  filter: drop-shadow(0 0 20px rgb(236, 222, 24));
+  text-align: center;
+  margin: 20px;
+}
